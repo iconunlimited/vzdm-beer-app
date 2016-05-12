@@ -1,0 +1,13 @@
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+body { padding-top: 150px; }
+.label-as-badge { border-radius: 1em; font-size: 14px;}
+
+.beer-list-name { margin-top: 0; margin-bottom: 10px;}
+.beers-results-count { font-style: italic; font-size: 16px; }
+.beer-item { border-bottom: 1px solid #eee; }
+
+.data-results ul { padding-left: 0 !important; list-style: none;  }
+.beer-item { padding: 20px 0; }
